@@ -2,3 +2,10 @@
 2016-06-01 13:32:31.031 +0100,"Failure",0:00:23,1,0,1,"20160601_133231.031/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0
 2016-06-01 13:40:58.058 +0100,"Failure",0:00:22,1,0,1,"20160601_134058.058/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0
 2016-06-01 13:51:02.002 +0100,"Failure",0:00:22,1,0,1,"20160601_135102.002/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0
+2016-06-02 14:52:18.018 +0100,"Success",0:00:00,0,0,0,"20160602_145218.018/LogFile.txt","","",1
+2016-06-02 14:52:27.027 +0100,"Success",0:00:00,0,0,0,"20160602_145227.027/LogFile.txt","","",1
+2016-06-02 14:52:45.045 +0100,"Failure",0:00:00,1,0,0,"20160602_145245.045/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'readfile'",0
+2016-06-02 14:52:55.055 +0100,"Failure",0:00:00,1,0,0,"20160602_145255.055/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'readfile'",0
+2016-06-02 14:53:07.007 +0100,"Success",0:00:00,0,0,0,"20160602_145307.007/LogFile.txt","","",1
+2016-06-02 14:53:19.019 +0100,"Success",0:00:00,0,0,0,"20160602_145319.019/LogFile.txt","","",1
+2016-06-02 14:57:59.059 +0100,"Success",0:00:00,0,0,0,"20160602_145759.059/LogFile.txt","","",1

@@ -36,4 +36,88 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Lists/Create_list_button&quot;</ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-06-02 14:52:18.018 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.020000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_145218.018/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:52:27.027 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.026000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_145227.027/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:52:45.045 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.388000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160602_145245.045/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;readfile&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:52:55.055 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.403000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160602_145255.055/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;readfile&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:53:07.007 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.404000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_145307.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:53:19.019 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.413000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_145319.019/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 14:57:59.059 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.017000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_145759.059/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

@@ -1,16 +1,16 @@
 ﻿function readFile 
-	put file "C:\Users\Lenny JM\Projects\EggPlant\Wunderlist\Wunderlist Test Data\TestData.csv" into dataFile
+	put file "C:\Users\Lenny JM\Projects\GitHub\EPF-Homework\Wunderlist Test Data\Test Data.csv" into dataFile
 	
 	repeat with each line data in dataFile
-		put data
-		put the first item of data into list
-		put items 2 to -1 of data into todos		
-		
-		insert (list:list, todos:todos) after propLists
+		if repeatIndex() > 1			
+			put data
+			put the first item of data into list
+			put the second item of data into todo
+			put the third item of data into subtask
+			
+			insert (list:list, todo:todo, subtask: subtask) after propLists			
+		end if
 	end repeat	
 	
 	return propLists
 end readFile
-
-
-  

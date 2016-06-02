@@ -1,1 +1,1 @@
-﻿{EPVersionNumber = 1602232215; Schedules = (); ScriptMetaData = {}; helpedSuitesInfo = ({filePath = "../Projects/EggPlant/Wunderlist/Wunderlist.suite"; }); helperSuitesInfo = (); }
+﻿{EPVersionNumber = 1602232215; Schedules = (); ScriptMetaData = {}; helpedSuitesInfo = ({filePath = "../Projects/EggPlant/Wunderlist/Wunderlist.suite"; }, {filePath = "../Projects/GitHub/EPF-Homework/Wunderlist.suite"; }); helperSuitesInfo = (); }

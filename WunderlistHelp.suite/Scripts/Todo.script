@@ -35,3 +35,11 @@ to find todo_name
 	LogSuccess "Todo found: " & todo_name
 	return true
 end find
+
+to AddSubtask todo_name, subtask_name
+	Log "Adding subtask " & subtask_name & " to todo: " & todo_name
+	
+	(*	DoubleClick(TEXT: todo_name)
+	Click(TEXT:"Add a subtask")
+	TypeText subtask_name, return*)
+end AddSubtask

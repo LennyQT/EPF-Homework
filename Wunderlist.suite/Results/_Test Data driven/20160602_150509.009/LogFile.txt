@@ -1,0 +1,3 @@
+﻿2016-06-02 15:05:09.009 +0100	START		Running _Test Data driven.script
+2016-06-02 15:05:43.043 +0100	EndTestCase		(Duration:"33.889", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 15:05:09 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 15:05:43.043 +0100	ABORTED		Execution Time 0:00:34 _Test Data driven.script
