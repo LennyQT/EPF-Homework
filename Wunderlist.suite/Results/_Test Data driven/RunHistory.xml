@@ -385,10 +385,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 09:53:11.011 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.421000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -397,10 +397,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 09:54:32.032 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.469000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -409,10 +409,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 09:54:50.050 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.515000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -421,10 +421,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 09:55:20.020 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.406000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -433,10 +433,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 10:02:19.019 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.516000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -445,10 +445,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 10:03:26.026 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.581000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -457,10 +457,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 10:04:45.045 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.563000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -469,10 +469,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 10:05:18.018 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.609000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -481,14 +481,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 10:05:35.035 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_100535.035/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -497,10 +497,10 @@
   <RunDate>2016-06-02 10:06:04.004 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_100604.004/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -509,10 +509,10 @@
   <RunDate>2016-06-02 10:07:45.045 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_100745.045/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -521,10 +521,10 @@
   <RunDate>2016-06-02 10:09:11.011 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_100911.011/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -533,10 +533,10 @@
   <RunDate>2016-06-02 10:09:50.050 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_100950.050/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -545,10 +545,10 @@
   <RunDate>2016-06-02 10:10:10.010 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_101010.010/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -557,10 +557,10 @@
   <RunDate>2016-06-02 10:10:18.018 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_101018.018/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -569,10 +569,10 @@
   <RunDate>2016-06-02 10:11:34.034 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_101134.034/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -581,10 +581,10 @@
   <RunDate>2016-06-02 10:11:47.047 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160602_101147.047/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -592,7 +592,7 @@
  <run>
   <RunDate>2016-06-02 10:12:08.008 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>14.065000</Duration>
+  <Duration>14.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -601,10 +601,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 12:56:54.054 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.493000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -613,10 +613,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 12:57:11.011 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.521000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -625,10 +625,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;list&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-02 12:58:15.015 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.538000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>

@@ -1,3 +1,0 @@
-﻿put "Woupididoup todo" into todo_name
-
-Todo.create(todo_name)

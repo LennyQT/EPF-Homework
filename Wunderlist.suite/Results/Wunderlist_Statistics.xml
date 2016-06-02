@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="_Test5 Create todo Synced">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
-  <FirstRun>2016-06-01 12:14:40 +0100</FirstRun>
-  <LastRun>2016-06-01 12:46:24 +0100</LastRun>
-  <TotalTimeOnSuccess>5.974000</TotalTimeOnSuccess>
- </script>
  <script name="_After Close application">
   <LastStatus>Failure</LastStatus>
   <NumberOfRuns>2</NumberOfRuns>
@@ -15,22 +7,6 @@
   <FirstRun>2016-05-31 11:03:11 +0100</FirstRun>
   <LastRun>2016-05-31 11:06:02 +0100</LastRun>
   <TotalTimeOnSuccess>0.344000</TotalTimeOnSuccess>
- </script>
- <script name="_Test3 Create list">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-05-31 12:10:48 +0100</FirstRun>
-  <LastRun>2016-06-01 11:18:53 +0100</LastRun>
-  <TotalTimeOnSuccess>56.842000</TotalTimeOnSuccess>
- </script>
- <script name="_Test1 Create todo">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>13</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2016-05-31 11:16:55 +0100</FirstRun>
-  <LastRun>2016-06-01 11:18:39 +0100</LastRun>
-  <TotalTimeOnSuccess>48.239000</TotalTimeOnSuccess>
  </script>
  <script name="_Before Open application">
   <LastStatus>Success</LastStatus>
@@ -40,31 +16,7 @@
   <LastRun>2016-05-31 11:07:11 +0100</LastRun>
   <TotalTimeOnSuccess>5.936000</TotalTimeOnSuccess>
  </script>
- <script name="_Test4 Completing todos">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2016-05-31 13:48:39 +0100</FirstRun>
-  <LastRun>2016-06-01 13:41:43 +0100</LastRun>
-  <TotalTimeOnSuccess>177.961000</TotalTimeOnSuccess>
- </script>
- <script name="_Test0 Delete Lists">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
-  <FirstRun>2016-05-31 14:31:28 +0100</FirstRun>
-  <LastRun>2016-05-31 15:19:08 +0100</LastRun>
-  <TotalTimeOnSuccess>57.806000</TotalTimeOnSuccess>
- </script>
- <script name="_Test2 Multiple todos">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-05-31 11:57:29 +0100</FirstRun>
-  <LastRun>2016-06-01 11:18:43 +0100</LastRun>
-  <TotalTimeOnSuccess>46.246000</TotalTimeOnSuccess>
- </script>
- <script name="_Test6 Data Driven">
+ <script name="_Test Data driven">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>36</NumberOfRuns>
   <NumberOfFails>14</NumberOfFails>
