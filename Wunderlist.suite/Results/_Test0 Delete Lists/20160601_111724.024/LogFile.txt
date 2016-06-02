@@ -1,0 +1,29 @@
+﻿2016-06-01 11:17:24.024 +0100	START		Running _Test0 Delete Lists.script
+2016-06-01 11:17:24.024 +0100	everyimagelocation	Lists/List_icon	found 5 images	1	on__test0_delete_lists	_Test0 Delete Lists.script
+2016-06-01 11:17:25.025 +0100	readtext		(22,176)
+2016-06-01 11:17:25.025 +0100	Log		Deleting list: Completing todos list	3	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:25.025 +0100	rightclick		at (22, 176)	5	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:28.028 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	6	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:29.029 +0100	click	Lists/Delete_List_button	at (622, 242)	7	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:29.029 +0100	readtext		(22,176)
+2016-06-01 11:17:29.029 +0100	LogSuccess		List deleted: My games list	9	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:32.032 +0100	readtext		(22,214)
+2016-06-01 11:17:32.032 +0100	Log		Deleting list: My tv series list	3	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:32.032 +0100	rightclick		at (22, 214)	5	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:36.036 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,429), ImageRectangle:(48,425,102,434), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 429)	6	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:37.037 +0100	click	Lists/Delete_List_button	at (622, 242)	7	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:37.037 +0100	readtext		(22,214)
+2016-06-01 11:17:37.037 +0100	LogSuccess		List deleted: My tv series list	9	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:40.040 +0100	readtext		(22,252)
+2016-06-01 11:17:40.040 +0100	Log		Deleting list: My tv series list	3	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:40.040 +0100	rightclick		at (22, 252)	5	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:42.042 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,467), ImageRectangle:(48,463,102,472), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 467)	6	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:43.043 +0100	click	Lists/Delete_List_button	at (622, 242)	7	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:44.044 +0100	readtext		(22,252)
+2016-06-01 11:17:44.044 +0100	LogSuccess		List deleted: 	9	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:46.046 +0100	readtext		(22,290)
+2016-06-01 11:17:46.046 +0100	Log		Deleting list: 	3	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:17:46.046 +0100	rightclick		at (22, 290)	5	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:01.001 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	6	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:01.001 +0100	EndTestCase		(Duration:"37.192", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 11:17:24 +0100", Successes:"3", TestCase:"_Test0 Delete Lists.script", Warnings:"0")
+2016-06-01 11:18:01.001 +0100	ABORTED		Execution Time 0:00:37 _Test0 Delete Lists.script

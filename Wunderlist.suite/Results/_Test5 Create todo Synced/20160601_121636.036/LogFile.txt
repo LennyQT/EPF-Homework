@@ -1,0 +1,7 @@
+﻿2016-06-01 12:16:36.036 +0100	START		Running _Test5 Create todo Synced.script
+2016-06-01 12:16:39.039 +0100	connect		i-d3fde57f:(null)	1	on__test5_create_todo_synced	_Test5 Create todo Synced.script
+2016-06-01 12:16:40.040 +0100	Log		Creating todo: Todo test	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:16:41.041 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:16:41.041 +0100	typetext		Todo test[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:17:05.005 +0100	EndTestCase		(Duration:"29.131", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 12:16:36 +0100", Successes:"0", TestCase:"_Test5 Create todo Synced.script", Warnings:"0")
+2016-06-01 12:17:06.006 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Image: Todos/Todo_list_BottomRight -- Execution Time 0:00:29 _Test5 Create todo Synced.script

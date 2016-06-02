@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 13:32:31.031 +0100,"Failure",0:00:23,1,0,1,"20160601_133231.031/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0
+2016-06-01 13:40:58.058 +0100,"Failure",0:00:22,1,0,1,"20160601_134058.058/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0
+2016-06-01 13:51:02.002 +0100,"Failure",0:00:22,1,0,1,"20160601_135102.002/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/Create_list_button""",0

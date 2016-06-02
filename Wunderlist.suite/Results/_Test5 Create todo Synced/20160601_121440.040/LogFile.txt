@@ -1,0 +1,3 @@
+﻿2016-06-01 12:14:40.040 +0100	START		Running _Test5 Create todo Synced.script
+2016-06-01 12:14:41.041 +0100	EndTestCase		(Duration:"0.334", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 12:14:40 +0100", Successes:"0", TestCase:"_Test5 Create todo Synced.script", Warnings:"0")
+2016-06-01 12:14:41.041 +0100	FAILURE		SenseTalk Runtime Exception Invalid operands: can't subtract 'd3fde57f' from 'i' (expected numbers, date and number, or lists) -- Execution Time 0:00:01 _Test5 Create todo Synced.script

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 12:14:40.040 +0100,"Failure",0:00:00,1,0,0,"20160601_121440.040/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'd3fde57f' from 'i' (expected numbers, date and number, or lists)",0
+2016-06-01 12:16:36.036 +0100,"Failure",0:00:29,1,0,0,"20160601_121636.036/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Image: Todos/Todo_list_BottomRight",0
+2016-06-01 12:20:05.005 +0100,"Success",0:00:05,0,0,0,"20160601_122005.005/LogFile.txt","","",1
+2016-06-01 12:35:32.032 +0100,"Failure",0:00:02,1,0,0,"20160601_123532.032/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'find'",0
+2016-06-01 12:46:24.024 +0100,"Failure",0:00:00,1,0,0,"20160601_124624.024/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'find'",0

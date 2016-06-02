@@ -1,0 +1,11 @@
+﻿get LoadData.readFile
+put it into data
+
+repeat with each item propList in data
+	Log "Creating List: " & propList.list
+	//List.create propList.list
+	repeat with each item todo in propList.todos
+		//Todo.create todo
+		Log "Create " & propList.list & " todos: " & todo
+	end repeat
+end repeat

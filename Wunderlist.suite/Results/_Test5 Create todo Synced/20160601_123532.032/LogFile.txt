@@ -1,0 +1,4 @@
+﻿2016-06-01 12:35:32.032 +0100	START		Running _Test5 Create todo Synced.script
+2016-06-01 12:35:34.034 +0100	connect		i-79fee6d5:(null)	1	on__test5_create_todo_synced	_Test5 Create todo Synced.script
+2016-06-01 12:35:34.034 +0100	EndTestCase		(Duration:"2.313", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 12:35:32 +0100", Successes:"0", TestCase:"_Test5 Create todo Synced.script", Warnings:"0")
+2016-06-01 12:35:34.034 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'find' -- Execution Time 0:00:02 _Test5 Create todo Synced.script

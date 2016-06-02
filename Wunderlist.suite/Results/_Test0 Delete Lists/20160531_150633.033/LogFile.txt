@@ -1,0 +1,12 @@
+﻿2016-05-31 15:06:33.033 +0100	START		Running _Delete Lists.script
+2016-05-31 15:06:33.033 +0100	everyimagelocation	List_icon	found 3 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 15:06:33.033 +0100	rightclick		at (22, 176)	3	on_delete_list	Delete_list.script
+2016-05-31 15:06:36.036 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	4	on_delete_list	Delete_list.script
+2016-05-31 15:06:37.037 +0100	click	Delete_List_button	at (622, 242)	5	on_delete_list	Delete_list.script
+2016-05-31 15:06:37.037 +0100	rightclick		at (22, 214)	3	on_delete_list	Delete_list.script
+2016-05-31 15:06:49.049 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,429), ImageRectangle:(48,425,102,434), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 429)	4	on_delete_list	Delete_list.script
+2016-05-31 15:06:51.051 +0100	click	Delete_List_button	at (622, 242)	5	on_delete_list	Delete_list.script
+2016-05-31 15:06:52.052 +0100	rightclick		at (22, 252)	3	on_delete_list	Delete_list.script
+2016-05-31 15:07:36.036 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Delete List")"	4	on_delete_list	Delete_list.script
+2016-05-31 15:07:37.037 +0100	EndTestCase		(Duration:"63.707", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 15:06:33 +0100", Successes:"0", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 15:07:37.037 +0100	ABORTED		Execution Time 0:01:04 _Delete Lists.script

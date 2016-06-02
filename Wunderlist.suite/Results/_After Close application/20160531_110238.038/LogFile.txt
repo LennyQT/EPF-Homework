@@ -1,0 +1,4 @@
+﻿2016-05-31 11:02:38.038 +0100	START		Running _After Close application.script
+2016-05-31 11:02:54.054 +0100	Exception	Close_Button	No Image Found On Screen: "Close_Button"	1	on__after_close_application	_After Close application.script
+2016-05-31 11:02:54.054 +0100	EndTestCase		(Duration:"15.673", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 11:02:38 +0100", Successes:"0", TestCase:"_After Close application.script", Warnings:"0")
+2016-05-31 11:02:54.054 +0100	ABORTED		Execution Time 0:00:16 _After Close application.script

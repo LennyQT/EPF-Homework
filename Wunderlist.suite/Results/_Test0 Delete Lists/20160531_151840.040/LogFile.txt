@@ -1,0 +1,9 @@
+﻿2016-05-31 15:18:40.040 +0100	START		Running _Delete Lists.script
+2016-05-31 15:18:40.040 +0100	everyimagelocation	Lists/List_icon	found 2 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 15:18:40.040 +0100	rightclick		at (22, 176)	3	on_delete_list	Delete_list.script
+2016-05-31 15:18:43.043 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	4	on_delete_list	Delete_list.script
+2016-05-31 15:18:44.044 +0100	click	Lists/Delete_List_button	at (622, 242)	5	on_delete_list	Delete_list.script
+2016-05-31 15:18:45.045 +0100	rightclick		at (22, 214)	3	on_delete_list	Delete_list.script
+2016-05-31 15:19:00.000 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	4	on_delete_list	Delete_list.script
+2016-05-31 15:19:00.000 +0100	EndTestCase		(Duration:"20.6", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 15:18:40 +0100", Successes:"0", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 15:19:00.000 +0100	ABORTED		Execution Time 0:00:20 _Delete Lists.script

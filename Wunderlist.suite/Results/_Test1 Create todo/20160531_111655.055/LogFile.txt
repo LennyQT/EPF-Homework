@@ -1,0 +1,5 @@
+﻿2016-05-31 11:16:55.055 +0100	START		Running _Test1 Create todo.script
+2016-05-31 11:16:55.055 +0100	click	Add_todo_field	at (341, 109)	1	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:16:56.056 +0100	typetext		My todo[return]	2	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:16:56.056 +0100	EndTestCase		(Duration:"1.359", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:16:55 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-05-31 11:16:57.057 +0100	SUCCESS		Execution Time 0:00:01 _Test1 Create todo.script

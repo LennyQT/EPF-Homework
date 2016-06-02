@@ -1,0 +1,7 @@
+﻿2016-05-31 12:10:48.048 +0100	START		Running _Test3 Create list.script
+2016-05-31 12:10:48.048 +0100	click	Create_list_button	at (61, 706)	3	on__test3_create_list	_Test3 Create list.script
+2016-05-31 12:10:49.049 +0100	typetext		My series list	4	on__test3_create_list	_Test3 Create list.script
+2016-05-31 12:10:51.051 +0100	click	SaveList_Button	at (642, 373)	5	on__test3_create_list	_Test3 Create list.script
+2016-05-31 12:10:53.053 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(382,170), ImageRectangle:(341,163,424,177), Language:"English", Text:"My series list", TextPlatform:"Generic OCR")	found at (382, 170)	6	on__test3_create_list	_Test3 Create list.script
+2016-05-31 12:10:53.053 +0100	EndTestCase		(Duration:"5.015", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 12:10:48 +0100", Successes:"1", TestCase:"_Test3 Create list.script", Warnings:"0")
+2016-05-31 12:10:53.053 +0100	SUCCESS		Execution Time 0:00:05 _Test3 Create list.script

@@ -1,0 +1,18 @@
+{
+    commandList = "[{captureRect:[302, 646, 429, 676], command:@\"Click\", eventNum:2, hotSpot:[341, 1.0929229699999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Add_todo_field\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0002.png\"}, {command:@\"KeyDown\", eventNum:5, screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0005.png\", text:@\"\\\"M\\\"\"}, {command:@\"KeyUp\", eventNum:7, origText:@\"\\\"m\\\"\", screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0007.png\", text:@\"\"}, {command:@\"TypeText\", eventNum:8, origText:@\"\\\"y todo\\\"\", screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0007.png\", text:@\"\\\"My todo\\\", return\"}, {command:@\"KeyDown\", eventNum:20, screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0007.png\", text:@\"Return\"}, {command:@\"KeyUp\", eventNum:21, screenShotFile:@\"C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/Wunderlist.suite/Sessions/20160531_111106.006/Screen0007.png\", text:@\"Return\"}]";
+    generatedCommands = (
+	"Click \"Add_todo_field\"",
+	"KeyDown \"M\"",
+	"KeyUp ",
+	"TypeText \"My todo\", return",
+	"KeyDown Return",
+	"KeyUp Return"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Add_todo_field.png",
+	    "Add_todo_field.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

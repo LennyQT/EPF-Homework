@@ -1,0 +1,37 @@
+﻿to complete todo_name
+	repeat with each item of EveryImageLocation("Todos/Unticked_checkbox")
+		
+		// Get imade data
+		put ImageInfo("Todos/Unticked_checkbox") into imageData
+		put (it.x + 6, it.y - 8) into TL
+		put (it.x + 400, it.y + 8) into BR
+		
+		put ReadText(TL, BR) into todo_text
+		
+		if todo_text equals todo_name
+			Click it
+		end if
+		
+	end repeat
+	
+end complete
+
+to create todo_name
+	Log "Creating todo: " & todo_name
+	
+	Click "Todos/Add_todo_field"
+	TypeText todo_name, Return
+	
+	WaitFor 8.0, (Text:todo_name, TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
+	
+	LogSuccess "Todo created: " & todo_name
+end create
+
+to find todo_name
+	Log "Finding todo " & todo_name & ""
+	
+	WaitFor 8.0, (Text:todo_name, TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
+	
+	LogSuccess "Todo found: " & todo_name
+	return true
+end find

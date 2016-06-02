@@ -1,0 +1,4 @@
+﻿2016-05-31 11:03:11.011 +0100	START		Running _After Close application.script
+2016-05-31 11:03:11.011 +0100	click	Close_Button	at (998, 9)	1	on__after_close_application	_After Close application.script
+2016-05-31 11:03:11.011 +0100	EndTestCase		(Duration:"0.313", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:03:11 +0100", Successes:"1", TestCase:"_After Close application.script", Warnings:"0")
+2016-05-31 11:03:11.011 +0100	SUCCESS		Execution Time 0:00:00 _After Close application.script

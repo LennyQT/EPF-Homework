@@ -1,0 +1,5 @@
+﻿2016-05-31 14:57:20.020 +0100	START		Running Delete_list.script
+2016-05-31 14:57:20.020 +0100	rightclick		at current mouse point (128, 398)	3	on_delete_list	Delete_list.script
+2016-05-31 14:57:26.026 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	4	on_delete_list	Delete_list.script
+2016-05-31 14:57:26.026 +0100	EndTestCase		(Duration:"6.324", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 14:57:20 +0100", Successes:"0", TestCase:"Delete_list.script", Warnings:"0")
+2016-05-31 14:57:26.026 +0100	ABORTED		Execution Time 0:00:06 Delete_list.script

@@ -1,0 +1,6 @@
+﻿connect "i-79fee6d5"
+
+put "Todo this" into todo_name
+Todo.create todo_name
+
+disconnect "i-79fee6d5"

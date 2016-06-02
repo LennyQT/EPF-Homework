@@ -1,0 +1,6 @@
+﻿2016-05-31 11:07:11.011 +0100	START		Running _Before Open application.script
+2016-05-31 11:07:11.011 +0100	doubleclick	Wunderlist_icon	at (39, 351)	1	on__before_open_application	_Before Open application.script
+2016-05-31 11:07:13.013 +0100	click	Maximize_Button	at (933, 32)	2	on__before_open_application	_Before Open application.script
+2016-05-31 11:07:13.013 +0100	waitfor	Username	found at (92, 125)	3	on__before_open_application	_Before Open application.script
+2016-05-31 11:07:13.013 +0100	EndTestCase		(Duration:"1.984", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:07:11 +0100", Successes:"1", TestCase:"_Before Open application.script", Warnings:"0")
+2016-05-31 11:07:13.013 +0100	SUCCESS		Execution Time 0:00:02 _Before Open application.script

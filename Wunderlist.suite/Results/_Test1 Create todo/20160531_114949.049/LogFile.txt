@@ -1,0 +1,6 @@
+﻿2016-05-31 11:49:49.049 +0100	START		Running _Test1 Create todo.script
+2016-05-31 11:49:50.050 +0100	click	Add_todo_field	at (341, 109)	3	on_create_todo	Create_todo.script
+2016-05-31 11:49:51.051 +0100	typetext		Woupididoup todo[return]	4	on_create_todo	Create_todo.script
+2016-05-31 11:49:53.053 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(395,166), ImageRectangle:(334,159,456,173), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Woupididoup todo", TextDifference:"1", TextPlatform:"Generic OCR")	found at (395, 166)	5	on_create_todo	Create_todo.script
+2016-05-31 11:49:53.053 +0100	EndTestCase		(Duration:"4.044", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:49:49 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-05-31 11:49:53.053 +0100	SUCCESS		Execution Time 0:00:04 _Test1 Create todo.script

@@ -1,0 +1,6 @@
+﻿2016-05-31 11:23:32.032 +0100	START		Running _Test1 Create todo.script
+2016-05-31 11:23:33.033 +0100	click	Add_todo_field	at (341, 109)	1	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:23:34.034 +0100	typetext		My todo[return]	2	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:23:55.055 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"My todo", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"My todo")" within 8.00 seconds	3	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:23:55.055 +0100	EndTestCase		(Duration:"22.565", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 11:23:32 +0100", Successes:"0", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-05-31 11:23:55.055 +0100	ABORTED		Execution Time 0:00:23 _Test1 Create todo.script

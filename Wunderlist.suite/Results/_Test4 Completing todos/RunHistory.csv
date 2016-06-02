@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 13:48:39.039 +0100,"Success",0:00:18,0,0,0,"20160531_134839.039/LogFile.txt","","",1
+2016-05-31 14:01:53.053 +0100,"Success",0:00:14,0,0,0,"20160531_140153.053/LogFile.txt","","",1
+2016-05-31 14:27:35.035 +0100,"Success",0:00:16,0,0,0,"20160531_142735.035/LogFile.txt","","",1
+2016-05-31 14:28:40.040 +0100,"Success",0:00:19,0,0,0,"20160531_142840.040/LogFile.txt","","",1
+2016-05-31 14:31:01.001 +0100,"Success",0:00:18,0,0,0,"20160531_143101.001/LogFile.txt","","",1
+2016-05-31 14:32:41.041 +0100,"Success",0:00:22,0,0,0,"20160531_143241.041/LogFile.txt","","",1
+2016-05-31 14:42:41.041 +0100,"Success",0:00:21,0,0,0,"20160531_144241.041/LogFile.txt","","",1
+2016-05-31 14:57:47.047 +0100,"Success",0:00:23,0,0,0,"20160531_145747.047/LogFile.txt","","",1
+2016-06-01 10:57:17.017 +0100,"Failure",0:00:48,1,0,1,"20160601_105717.017/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Todos/Ticked_checkbox"" within 8.00 seconds",4
+2016-06-01 11:14:26.026 +0100,"Failure",0:00:04,1,0,0,"20160601_111426.026/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_todo'",1
+2016-06-01 11:16:01.001 +0100,"Running",0:00:00,0,0,0,"20160601_111601.001/LogFile.txt","","",0
+2016-06-01 11:18:58.058 +0100,"Success",0:00:23,0,0,0,"20160601_111858.058/LogFile.txt","","",4
+2016-06-01 13:41:43.043 +0100,"Failure",0:00:00,1,0,0,"20160601_134143.043/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0

@@ -1,0 +1,7 @@
+﻿2016-05-31 14:39:42.042 +0100	START		Running _Delete Lists.script
+2016-05-31 14:39:42.042 +0100	everyimagelocation	List_icon	found 1 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 14:39:42.042 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:39:45.045 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:39:46.046 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:39:46.046 +0100	EndTestCase		(Duration:"4.117", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:39:42 +0100", Successes:"1", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 14:39:46.046 +0100	SUCCESS		Execution Time 0:00:04 _Delete Lists.script

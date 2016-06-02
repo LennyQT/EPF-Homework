@@ -1,0 +1,20 @@
+﻿// Create list
+put "My tv series list" into list_name
+
+Create_list list_name
+
+// Create todos
+put ["Gotham", "Game of Thrones", "The Flash"] into todos
+
+repeat with each item of todos
+	Create_todo it
+end repeat
+
+wait 2
+
+// Complete todo
+Todo.complete("The Flash")
+
+Todo.show_completed
+
+WaitFor 8.0, "Todos/Completed_TheFlash"

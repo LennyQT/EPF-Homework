@@ -1,0 +1,5 @@
+﻿2016-05-31 14:03:06.006 +0100	START		Running Complete_todo.script
+2016-05-31 14:03:06.006 +0100	everyimagelocation	Empty_checkbox	found 3 images	3	on_complete_todo	Complete_todo.script
+2016-05-31 14:03:06.006 +0100	Exception	i	Could Not Open Image: i	4	on_complete_todo	Complete_todo.script
+2016-05-31 14:03:06.006 +0100	EndTestCase		(Duration:"0.313", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 14:03:06 +0100", Successes:"0", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:03:06.006 +0100	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: i -- Execution Time 0:00:00 Complete_todo.script

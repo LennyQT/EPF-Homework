@@ -1,0 +1,4 @@
+﻿2016-05-31 14:55:10.010 +0100	START		Running _Delete Lists.script
+2016-05-31 14:55:10.010 +0100	everyimagelocation	List_icon	found 1 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 14:55:11.011 +0100	EndTestCase		(Duration:"0.878", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:55:10 +0100", Successes:"1", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 14:55:11.011 +0100	SUCCESS		Execution Time 0:00:01 _Delete Lists.script

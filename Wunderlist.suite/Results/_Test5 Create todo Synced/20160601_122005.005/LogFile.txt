@@ -1,0 +1,9 @@
+﻿2016-06-01 12:20:05.005 +0100	START		Running _Test5 Create todo Synced.script
+2016-06-01 12:20:07.007 +0100	connect		i-79fee6d5:(null)	1	on__test5_create_todo_synced	_Test5 Create todo Synced.script
+2016-06-01 12:20:08.008 +0100	Log		Creating todo: New Todo test	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:20:08.008 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:20:09.009 +0100	typetext		New Todo test[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:20:11.011 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(381,164), ImageRectangle:(335,159,427,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:"New Todo test", TextDifference:"1", TextPlatform:"Generic OCR")	found at (381, 164)	6	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:20:11.011 +0100	LogSuccess		Todo created: New Todo test	8	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:20:11.011 +0100	EndTestCase		(Duration:"5.954", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 12:20:05 +0100", Successes:"1", TestCase:"_Test5 Create todo Synced.script", Warnings:"0")
+2016-06-01 12:20:11.011 +0100	SUCCESS		Execution Time 0:00:06 _Test5 Create todo Synced.script

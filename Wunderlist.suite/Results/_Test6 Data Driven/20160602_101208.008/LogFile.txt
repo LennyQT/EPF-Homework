@@ -1,0 +1,11 @@
+﻿2016-06-02 10:12:08.008 +0100	START		Running _Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Creating List: TV Series list	5	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create TV Series list todos:  Gotham	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create TV Series list todos:  The Flash	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create TV Series list todos:  Game of Thrones	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Creating List: Games list	5	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create Games list todos:  The Last of Us	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create Games list todos:  Bloodborne	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	Log		Create Games list todos:  Rocket League	9	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:12:22.022 +0100	EndTestCase		(Duration:"14.018", Errors:"0", Exceptions:"0", StartTime:"2016-06-02 10:12:08 +0100", Successes:"1", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-02 10:12:23.023 +0100	SUCCESS		Execution Time 0:00:14 _Test6 Data Driven.script

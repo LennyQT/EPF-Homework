@@ -1,0 +1,11 @@
+﻿2016-06-01 11:18:18.018 +0100	START		Running _Test0 Delete Lists.script
+2016-06-01 11:18:18.018 +0100	everyimagelocation	Lists/List_icon	found 1 images	1	on__test0_delete_lists	_Test0 Delete Lists.script
+2016-06-01 11:18:18.018 +0100	readtext		(22,176)
+2016-06-01 11:18:18.018 +0100	Log		Deleting list: My games list	3	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:18.018 +0100	rightclick		at (22, 176)	5	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:22.022 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	6	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:23.023 +0100	click	Lists/Delete_List_button	at (622, 242)	7	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:24.024 +0100	readtext		(22,176)
+2016-06-01 11:18:24.024 +0100	LogSuccess		List deleted: 	9	on_delete_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Delete_list.script
+2016-06-01 11:18:25.025 +0100	EndTestCase		(Duration:"7.482", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 11:18:18 +0100", Successes:"1", TestCase:"_Test0 Delete Lists.script", Warnings:"0")
+2016-06-01 11:18:25.025 +0100	ABORTED		Execution Time 0:00:07 _Test0 Delete Lists.script

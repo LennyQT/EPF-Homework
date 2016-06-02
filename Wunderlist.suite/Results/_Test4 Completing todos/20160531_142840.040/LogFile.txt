@@ -1,0 +1,21 @@
+﻿2016-05-31 14:28:40.040 +0100	START		Running _Test4 Completing todos.script
+2016-05-31 14:28:40.040 +0100	click	Create_list_button	at (61, 706)	3	on_create_list	Create_list.script
+2016-05-31 14:28:42.042 +0100	typetext		My tv series list	4	on_create_list	Create_list.script
+2016-05-31 14:28:43.043 +0100	click	SaveList_Button	at (642, 373)	5	on_create_list	Create_list.script
+2016-05-31 14:28:44.044 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(469,12), ImageRectangle:(420,6,518,18), Language:"English", Text:"My tv series list", TextPlatform:"Generic OCR")	found at (469, 12)	6	on_create_list	Create_list.script
+2016-05-31 14:28:45.045 +0100	click	Add_todo_field	at (341, 109)	3	on_create_todo	Create_todo.script
+2016-05-31 14:28:46.046 +0100	typetext		Gotham[return]	4	on_create_todo	Create_todo.script
+2016-05-31 14:28:48.048 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(360,164), ImageRectangle:(334,159,386,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Gotham", TextDifference:"1", TextPlatform:"Generic OCR")	found at (360, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 14:28:49.049 +0100	click	Add_todo_field	at (341, 109)	3	on_create_todo	Create_todo.script
+2016-05-31 14:28:50.050 +0100	typetext		Game of Thrones[return]	4	on_create_todo	Create_todo.script
+2016-05-31 14:28:52.052 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(389,164), ImageRectangle:(334,159,445,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Game of Thrones", TextDifference:"1", TextPlatform:"Generic OCR")	found at (389, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 14:28:52.052 +0100	click	Add_todo_field	at (341, 109)	3	on_create_todo	Create_todo.script
+2016-05-31 14:28:53.053 +0100	typetext		The Flash[return]	4	on_create_todo	Create_todo.script
+2016-05-31 14:28:55.055 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,164), ImageRectangle:(334,159,395,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:"The Flash", TextDifference:"1", TextPlatform:"Generic OCR")	found at (364, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 14:28:57.057 +0100	everyimagelocation	Unticked_checkbox	found 3 images	4	on_complete_todo	Complete_todo.script
+2016-05-31 14:28:57.057 +0100	readtext		(321,158,715,174)
+2016-05-31 14:28:57.057 +0100	click		at (315, 166)	13	on_complete_todo	Complete_todo.script
+2016-05-31 14:28:58.058 +0100	readtext		(321,205,715,221)
+2016-05-31 14:28:58.058 +0100	readtext		(321,252,715,268)
+2016-05-31 14:28:59.059 +0100	EndTestCase		(Duration:"19.049", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:28:40 +0100", Successes:"1", TestCase:"_Test4 Completing todos.script", Warnings:"0")
+2016-05-31 14:28:59.059 +0100	SUCCESS		Execution Time 0:00:19 _Test4 Completing todos.script

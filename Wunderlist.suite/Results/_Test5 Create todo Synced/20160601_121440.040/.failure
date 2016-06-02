@@ -1,0 +1,1 @@
+2016-06-01 12:14:40.040 +0100,Failure,0:00:01,1,0,0,20160601_121440.040/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'd3fde57f' from 'i' (expected numbers, date and number, or lists)",0

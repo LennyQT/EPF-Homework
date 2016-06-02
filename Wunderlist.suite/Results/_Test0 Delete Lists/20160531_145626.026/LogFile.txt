@@ -1,0 +1,6 @@
+﻿2016-05-31 14:56:26.026 +0100	START		Running _Delete Lists.script
+2016-05-31 14:56:26.026 +0100	everyimagelocation	List_icon	found 1 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 14:56:26.026 +0100	imagelocation	List_icon	at (22, 176)	5	on__delete_lists	_Delete Lists.script
+2016-05-31 14:56:27.027 +0100	Exception	list	Could Not Open Image: list	3	on_delete_list	Delete_list.script
+2016-05-31 14:56:27.027 +0100	EndTestCase		(Duration:"0.751", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 14:56:26 +0100", Successes:"0", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 14:56:27.027 +0100	FAILURE	Screen_Error.png	File Not Found rightclick Error - Could Not Open Image: list -- Execution Time 0:00:01 _Delete Lists.script

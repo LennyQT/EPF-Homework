@@ -1,0 +1,10 @@
+﻿2016-05-31 14:04:00.000 +0100	START		Running Complete_todo.script
+2016-05-31 14:04:00.000 +0100	everyimagelocation	Empty_checkbox	found 3 images	3	on_complete_todo	Complete_todo.script
+2016-05-31 14:04:00.000 +0100	readtext		(315,166)
+2016-05-31 14:04:00.000 +0100	Log		The Flash	4	on_complete_todo	Complete_todo.script
+2016-05-31 14:04:00.000 +0100	readtext		(315,213)
+2016-05-31 14:04:00.000 +0100	Log		Gameo	4	on_complete_todo	Complete_todo.script
+2016-05-31 14:04:00.000 +0100	readtext		(315,260)
+2016-05-31 14:04:00.000 +0100	Log		Gotham	4	on_complete_todo	Complete_todo.script
+2016-05-31 14:04:00.000 +0100	EndTestCase		(Duration:"0.813", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:04:00 +0100", Successes:"1", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:04:01.001 +0100	SUCCESS		Execution Time 0:00:00 Complete_todo.script

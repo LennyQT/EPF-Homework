@@ -1,0 +1,4 @@
+﻿2016-06-02 10:11:34.034 +0100	START		Running _Test6 Data Driven.script
+2016-06-02 10:11:35.035 +0100	Log		((list:"TV Series list", todos:" Gotham, The Flash, Game of Thrones"),(list:"Games list", todos:" The Last of Us, Bloodborne, Rocket League"))	2	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-02 10:11:45.045 +0100	EndTestCase		(Duration:"10.319", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 10:11:34 +0100", Successes:"0", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-02 10:11:45.045 +0100	ABORTED		Execution Time 0:00:11 _Test6 Data Driven.script

@@ -1,0 +1,10 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+_Test5 Create todo Synced,Failure,5,4,2016-06-01 12:14:40 +0100,2016-06-01 12:46:24 +0100,0:00:05
+_After Close application,Failure,2,1,2016-05-31 11:03:11 +0100,2016-05-31 11:06:02 +0100,0:00:00
+_Test3 Create list,Success,12,0,2016-05-31 12:10:48 +0100,2016-06-01 11:18:53 +0100,0:00:04
+_Test1 Create todo,Success,13,3,2016-05-31 11:16:55 +0100,2016-06-01 11:18:39 +0100,0:00:04
+_Before Open application,Success,4,0,2016-05-31 10:57:40 +0100,2016-05-31 11:07:11 +0100,0:00:01
+_Test4 Completing todos,Failure,12,3,2016-05-31 13:48:39 +0100,2016-06-01 13:41:43 +0100,0:00:19
+_Test0 Delete Lists,Success,12,4,2016-05-31 14:31:28 +0100,2016-05-31 15:19:08 +0100,0:00:07
+_Test2 Multiple todos,Success,5,0,2016-05-31 11:57:29 +0100,2016-06-01 11:18:43 +0100,0:00:09
+_Test6 Data Driven,Success,36,14,2016-06-01 13:06:38 +0100,2016-06-02 12:58:15 +0100,0:00:06

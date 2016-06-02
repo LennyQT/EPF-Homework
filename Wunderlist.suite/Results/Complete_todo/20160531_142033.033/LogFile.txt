@@ -1,0 +1,4 @@
+﻿2016-05-31 14:20:33.033 +0100	START		Running Complete_todo.script
+2016-05-31 14:20:34.034 +0100	Exception	Empty_checkbox	Could Not Open Image: Empty_checkbox	5	on_complete_todo	Complete_todo.script
+2016-05-31 14:20:34.034 +0100	EndTestCase		(Duration:"0.485", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 14:20:33 +0100", Successes:"0", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:20:34.034 +0100	FAILURE	Screen_Error.png	File Not Found everyimagelocation Error - Could Not Open Image: Empty_checkbox -- Execution Time 0:00:01 Complete_todo.script

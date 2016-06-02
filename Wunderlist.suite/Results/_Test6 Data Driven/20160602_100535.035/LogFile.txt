@@ -1,0 +1,5 @@
+﻿2016-06-02 10:05:35.035 +0100	START		Running _Test6 Data Driven.script
+2016-06-02 10:05:35.035 +0100	Log		data retrieved	17	on_readfile	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/LoadData.script
+2016-06-02 10:05:36.036 +0100	Log		propLists	2	function_retrievedata	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/LoadData.script
+2016-06-02 10:05:49.049 +0100	EndTestCase		(Duration:"13.92", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 10:05:35 +0100", Successes:"0", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-02 10:05:49.049 +0100	ABORTED		Execution Time 0:00:14 _Test6 Data Driven.script

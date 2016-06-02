@@ -1,0 +1,23 @@
+﻿2016-06-01 14:30:32.032 +0100	START		Running _Test6 Data Driven.script
+2016-06-01 14:30:33.033 +0100	Log		Creating list: Games list	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:30:33.033 +0100	click	Lists/Create_list_button	at (61, 706)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:30:34.034 +0100	typetext		Games list	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:30:35.035 +0100	click	Lists/SaveList_Button	at (642, 373)	6	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:30:35.035 +0100	LogSuccess		list created: Games list	8	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:30:35.035 +0100	Log		Creating todo:  The Last of Us	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:36.036 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:37.037 +0100	typetext		 The Last of Us[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:46.046 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(379,164), ImageRectangle:(334,159,425,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:" The Last of Us", TextDifference:"1", TextPlatform:"Generic OCR")	found at (379, 164)	7	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:46.046 +0100	LogSuccess		Todo created:  The Last of Us	9	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:47.047 +0100	Log		Creating todo:  Bloodborne	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:47.047 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:48.048 +0100	typetext		 Bloodborne[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:50.050 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(372,164), ImageRectangle:(335,159,410,170), Language:"English", SearchRectangle:(331,133,1019,721), Text:" Bloodborne", TextDifference:"1", TextPlatform:"Generic OCR")	found at (372, 164)	7	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:50.050 +0100	LogSuccess		Todo created:  Bloodborne	9	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:50.050 +0100	Log		Creating todo:  Rocket League	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:50.050 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:51.051 +0100	typetext		 Rocket League[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:53.053 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(381,166), ImageRectangle:(335,159,428,173), Language:"English", SearchRectangle:(331,133,1019,721), Text:" Rocket League", TextDifference:"1", TextPlatform:"Generic OCR")	found at (381, 166)	7	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:53.053 +0100	LogSuccess		Todo created:  Rocket League	9	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:53.053 +0100	EndTestCase		(Duration:"20.641", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 14:30:32 +0100", Successes:"4", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-01 14:30:53.053 +0100	SUCCESS		Execution Time 0:00:21 _Test6 Data Driven.script

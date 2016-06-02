@@ -1,0 +1,7 @@
+﻿repeat with each item of EveryImageLocation("Lists/List_icon")
+	(*	RightClick "List_icon"
+	Click (TEXT: "Delete List")
+	Click "Delete_List_button"	*)
+	Delete_list it
+	wait 2
+end repeat

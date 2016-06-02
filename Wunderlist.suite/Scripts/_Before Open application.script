@@ -1,0 +1,3 @@
+﻿DoubleClick "Wunderlist_icon"
+Click "Window/Maximize_Button"
+WaitFor 8.0, "Username"

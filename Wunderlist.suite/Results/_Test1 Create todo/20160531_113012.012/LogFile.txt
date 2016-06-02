@@ -1,0 +1,6 @@
+﻿2016-05-31 11:30:12.012 +0100	START		Running _Test1 Create todo.script
+2016-05-31 11:30:13.013 +0100	click	Add_todo_field	at (341, 109)	1	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:30:14.014 +0100	typetext		My todo[return]	2	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:30:15.015 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(361,166), ImageRectangle:(334,159,388,174), Language:"English", Text:"My todo", TextDifference:"1", TextPlatform:"Generic OCR")	found at (361, 166)	3	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:30:15.015 +0100	EndTestCase		(Duration:"3.375", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:30:12 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-05-31 11:30:15.015 +0100	SUCCESS		Execution Time 0:00:03 _Test1 Create todo.script

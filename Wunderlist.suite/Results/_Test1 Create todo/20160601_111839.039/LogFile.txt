@@ -1,0 +1,8 @@
+﻿2016-06-01 11:18:39.039 +0100	START		Running _Test1 Create todo.script
+2016-06-01 11:18:39.039 +0100	Log		Creating todo: Woupididoup todo	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:18:39.039 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:18:40.040 +0100	typetext		Woupididoup todo[return]	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:18:42.042 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(395,166), ImageRectangle:(334,159,456,173), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Woupididoup todo", TextDifference:"1", TextPlatform:"Generic OCR")	found at (395, 166)	6	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:18:42.042 +0100	LogSuccess		Todo created: Woupididoup todo	8	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:18:42.042 +0100	EndTestCase		(Duration:"3.426", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:18:39 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-06-01 11:18:42.042 +0100	SUCCESS		Execution Time 0:00:03 _Test1 Create todo.script

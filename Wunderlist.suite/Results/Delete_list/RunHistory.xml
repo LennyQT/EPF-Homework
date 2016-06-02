@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Delete_list">
+ <run>
+  <RunDate>2016-05-31 14:56:07.007 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.627000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_145607.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- rightclick Error - Could Not Open Image: list</ErrorMessage>
+ </run>
+</runHistory>

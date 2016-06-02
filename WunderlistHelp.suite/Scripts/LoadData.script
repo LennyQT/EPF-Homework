@@ -1,0 +1,16 @@
+﻿function readFile 
+	put file "C:\Users\Lenny JM\Projects\EggPlant\Wunderlist\Wunderlist Test Data\TestData.csv" into dataFile
+	
+	repeat with each line data in dataFile
+		put data
+		put the first item of data into list
+		put items 2 to -1 of data into todos		
+		
+		insert (list:list, todos:todos) after propLists
+	end repeat	
+	
+	return propLists
+end readFile
+
+
+  

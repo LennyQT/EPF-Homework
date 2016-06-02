@@ -1,0 +1,5 @@
+﻿2016-06-01 15:57:06.006 +0100	START		Running _Test6 Data Driven.script
+2016-06-01 15:57:06.006 +0100	Log		hello	15	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 15:57:06.006 +0100	Log		Goodbye	15	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 15:57:07.007 +0100	EndTestCase		(Duration:"0.734", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 15:57:06 +0100", Successes:"1", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-01 15:57:07.007 +0100	SUCCESS		Execution Time 0:00:01 _Test6 Data Driven.script

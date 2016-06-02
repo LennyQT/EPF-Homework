@@ -1,0 +1,11 @@
+﻿2016-06-01 16:04:49.049 +0100	START		Running _Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 Gotham	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 The Flash	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 Game of Thrones	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 The Last of Us	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 Bloodborne	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		 Rocket League	8	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		hello	16	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:49.049 +0100	Log		Goodbye	16	on__test6_data_driven	_Test6 Data Driven.script
+2016-06-01 16:04:50.050 +0100	EndTestCase		(Duration:"0.515", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 16:04:49 +0100", Successes:"1", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-01 16:04:50.050 +0100	SUCCESS		Execution Time 0:00:01 _Test6 Data Driven.script

@@ -1,0 +1,19 @@
+﻿2016-05-31 14:31:28.028 +0100	START		Running _Delete Lists.script
+2016-05-31 14:31:28.028 +0100	everyimagelocation	List_icon	found 5 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:28.028 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:31.031 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:32.032 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:32.032 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:35.035 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:36.036 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:37.037 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:40.040 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:41.041 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:42.042 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:49.049 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:50.050 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:51.051 +0100	rightclick	List_icon	at (22, 176)	2	on__delete_lists	_Delete Lists.script
+2016-05-31 14:31:58.058 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(75,391), ImageRectangle:(48,387,102,396), Language:"English", TEXT:"Delete List", TextPlatform:"Generic OCR")	at (75, 391)	3	on__delete_lists	_Delete Lists.script
+2016-05-31 14:32:01.001 +0100	click	Delete_List_button	at (622, 242)	4	on__delete_lists	_Delete Lists.script
+2016-05-31 14:32:01.001 +0100	EndTestCase		(Duration:"33.191", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:31:28 +0100", Successes:"1", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 14:32:01.001 +0100	SUCCESS		Execution Time 0:00:33 _Delete Lists.script

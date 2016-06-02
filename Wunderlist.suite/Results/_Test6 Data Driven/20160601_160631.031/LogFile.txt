@@ -1,0 +1,7 @@
+﻿2016-06-01 16:06:31.031 +0100	START		Running _Test6 Data Driven.script
+2016-06-01 16:06:31.031 +0100	Log		Creating list: TV Series list	2	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 16:06:32.032 +0100	click	Lists/Create_list_button	at (61, 706)	4	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 16:06:33.033 +0100	typetext		TV Series list	5	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 16:06:45.045 +0100	Exception	Lists/SaveList_Button	No Image Found On Screen: "Lists/SaveList_Button"	6	on_create	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 16:06:45.045 +0100	EndTestCase		(Duration:"14.442", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 16:06:31 +0100", Successes:"0", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-01 16:06:45.045 +0100	ABORTED		Execution Time 0:00:14 _Test6 Data Driven.script

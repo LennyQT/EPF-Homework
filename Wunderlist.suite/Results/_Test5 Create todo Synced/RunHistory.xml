@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="_Test5 Create todo Synced">
+ <run>
+  <RunDate>2016-06-01 12:14:40.040 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_121440.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands: can&#x27;t subtract &#x27;d3fde57f&#x27; from &#x27;i&#x27; (expected numbers, date and number, or lists)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 12:16:36.036 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>29.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_121636.036/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Image: Todos/Todo_list_BottomRight</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 12:20:05.005 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>5.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_122005.005/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 12:35:32.032 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_123532.032/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;find&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 12:46:24.024 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_124624.024/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;find&#x27;</ErrorMessage>
+ </run>
+</runHistory>

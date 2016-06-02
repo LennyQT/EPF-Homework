@@ -1,0 +1,10 @@
+﻿2016-05-31 14:12:06.006 +0100	START		Running Complete_todo.script
+2016-05-31 14:12:06.006 +0100	everyimagelocation	Empty_checkbox	found 3 images	3	on_complete_todo	Complete_todo.script
+2016-05-31 14:12:07.007 +0100	readtext		(315,166,415,171)
+2016-05-31 14:12:07.007 +0100	Log		^ I K1 -	6	on_complete_todo	Complete_todo.script
+2016-05-31 14:12:07.007 +0100	readtext		(315,213,415,218)
+2016-05-31 14:12:07.007 +0100	Log		^ CM ^ U	6	on_complete_todo	Complete_todo.script
+2016-05-31 14:12:07.007 +0100	readtext		(315,260,415,265)
+2016-05-31 14:12:07.007 +0100	Log		UUL I Cl I	6	on_complete_todo	Complete_todo.script
+2016-05-31 14:12:07.007 +0100	EndTestCase		(Duration:"0.939", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:12:06 +0100", Successes:"1", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:12:07.007 +0100	SUCCESS		Execution Time 0:00:01 Complete_todo.script

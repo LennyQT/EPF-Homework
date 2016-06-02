@@ -1,0 +1,6 @@
+﻿2016-05-31 15:05:38.038 +0100	START		Running _Delete Lists.script
+2016-05-31 15:05:39.039 +0100	everyimagelocation	List_icon	found 3 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 15:05:39.039 +0100	readtext		(22,176)
+2016-05-31 15:05:39.039 +0100	Exception	My games list	Could Not Open Image: My games list	3	on_delete_list	Delete_list.script
+2016-05-31 15:05:39.039 +0100	EndTestCase		(Duration:"0.797", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 15:05:38 +0100", Successes:"0", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 15:05:40.040 +0100	FAILURE	Screen_Error.png	File Not Found rightclick Error - Could Not Open Image: My games list -- Execution Time 0:00:01 _Delete Lists.script

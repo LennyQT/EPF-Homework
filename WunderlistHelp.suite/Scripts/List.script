@@ -1,0 +1,20 @@
+﻿to create list_name	
+	Log "Creating list: " & list_name
+	
+	Click "Lists/Create_list_button"
+	TypeText list_name
+	Click "Lists/SaveList_Button"
+	WaitFor 8.0, (Text:list_name)
+	
+	LogSuccess "list created: " & list_name
+end create
+
+to delete list_icon
+	Log "Deleting list: " & ReadText(list_icon)
+	
+	RightClick list_icon
+	Click (TEXT: "Delete List")
+	Click "Lists/Delete_List_button"
+	
+	LogSuccess "List deleted: " & ReadText(list_icon)
+end delete

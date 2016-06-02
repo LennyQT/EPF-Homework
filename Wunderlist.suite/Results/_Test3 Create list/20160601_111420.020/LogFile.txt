@@ -1,0 +1,9 @@
+﻿2016-06-01 11:14:20.020 +0100	START		Running _Test3 Create list.script
+2016-06-01 11:14:21.021 +0100	Log		Creating list: My games list	3	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:21.021 +0100	click	Lists/Create_list_button	at (61, 706)	5	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:22.022 +0100	typetext		My games list	6	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:23.023 +0100	click	Lists/SaveList_Button	at (642, 373)	7	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:25.025 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(384,169), ImageRectangle:(341,162,427,177), Language:"English", Text:"My games list", TextPlatform:"Generic OCR")	found at (384, 169)	8	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:25.025 +0100	LogSuccess		list created: My games list	10	on_create_list	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:14:25.025 +0100	EndTestCase		(Duration:"4.839", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:14:20 +0100", Successes:"1", TestCase:"_Test3 Create list.script", Warnings:"0")
+2016-06-01 11:14:25.025 +0100	SUCCESS		Execution Time 0:00:05 _Test3 Create list.script

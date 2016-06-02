@@ -1,0 +1,10 @@
+﻿2016-05-31 15:06:06.006 +0100	START		Running _Delete Lists.script
+2016-05-31 15:06:07.007 +0100	everyimagelocation	List_icon	found 3 images	1	on__delete_lists	_Delete Lists.script
+2016-05-31 15:06:07.007 +0100	readtext		(22,176)
+2016-05-31 15:06:07.007 +0100	Log		My games list	5	on__delete_lists	_Delete Lists.script
+2016-05-31 15:06:07.007 +0100	readtext		(22,214)
+2016-05-31 15:06:07.007 +0100	Log		My games list	5	on__delete_lists	_Delete Lists.script
+2016-05-31 15:06:07.007 +0100	readtext		(22,252)
+2016-05-31 15:06:07.007 +0100	Log		My games list	5	on__delete_lists	_Delete Lists.script
+2016-05-31 15:06:07.007 +0100	EndTestCase		(Duration:"0.937", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 15:06:06 +0100", Successes:"1", TestCase:"_Delete Lists.script", Warnings:"0")
+2016-05-31 15:06:08.008 +0100	SUCCESS		Execution Time 0:00:01 _Delete Lists.script

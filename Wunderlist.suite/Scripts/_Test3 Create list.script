@@ -1,0 +1,5 @@
+﻿put "My games list" into list_name
+
+Create_list list_name
+
+

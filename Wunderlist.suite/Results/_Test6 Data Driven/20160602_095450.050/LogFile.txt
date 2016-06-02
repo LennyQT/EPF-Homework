@@ -1,0 +1,4 @@
+﻿2016-06-02 09:54:50.050 +0100	START		Running _Test6 Data Driven.script
+2016-06-02 09:54:50.050 +0100	Log		List 	3	function_retrievedata	C:/Users/Lenny JM/Projects/EggPlant/Wunderlist/WunderlistHelp.suite/Scripts/LoadData.script
+2016-06-02 09:54:51.051 +0100	EndTestCase		(Duration:"0.5", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 09:54:50 +0100", Successes:"0", TestCase:"_Test6 Data Driven.script", Warnings:"0")
+2016-06-02 09:54:51.051 +0100	FAILURE		STUnknownMessage ERROR: No Such Function: 'list' -- Execution Time 0:00:01 _Test6 Data Driven.script

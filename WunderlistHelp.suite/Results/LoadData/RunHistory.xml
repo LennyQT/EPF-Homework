@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="LoadData">
+ <run>
+  <RunDate>2016-06-01 13:32:31.031 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_133231.031/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Lists/Create_list_button&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 13:40:58.058 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_134058.058/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Lists/Create_list_button&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 13:51:02.002 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_135102.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Lists/Create_list_button&quot;</ErrorMessage>
+ </run>
+</runHistory>
