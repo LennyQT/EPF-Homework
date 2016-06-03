@@ -14,15 +14,14 @@ function find list_name
 	Log "Searching for list: " & list_name
 	
 	// Loop through the unticked checkboxes to find our todo
-	repeat with each item of EveryImageLocation("Lists/List_icon")
-		
+	repeat with each item of EveryImageLocation("Lists/List_icon")		
 		// Create a large rectangle to the right of our checkbox
 		put (it.x + 6, it.y - 8) into TL
 		put (it.x + 200, it.y + 8) into BR
 		
 		put ReadText(TL, BR) into list_text
 		
-		// return our found todo as text
+		// returns true if the list matches
 		if list_text equals list_name			
 			LogSuccess "List [" & list_name & "] found"
 			return true
