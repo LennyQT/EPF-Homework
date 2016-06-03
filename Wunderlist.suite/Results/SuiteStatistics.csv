@@ -1,4 +1,4 @@
 ﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
 _After Close application,Failure,2,1,2016-05-31 11:03:11 +0100,2016-05-31 11:06:02 +0100,0:00:00
-_Test Data driven,Failure,91,31,2016-06-01 13:06:38 +0100,2016-06-03 02:39:00 +0100,0:00:18
+_Test Data driven,Success,99,35,2016-06-01 13:06:38 +0100,2016-06-03 04:17:24 +0100,0:00:22
 _Before Open application,Success,4,0,2016-05-31 10:57:40 +0100,2016-05-31 11:07:11 +0100,0:00:01

@@ -1,0 +1,33 @@
+﻿2016-06-03 04:10:20.020 +0100	START		Running _Test Data driven.script
+2016-06-03 04:10:20.020 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 04:10:20.020 +0100	everyimagelocation	Lists/List_icon	found 1 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 04:10:20.020 +0100	readtext		(26,168,220,184)
+2016-06-03 04:10:20.020 +0100	LogSuccess		List [Things to do] found	15	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 04:10:22.022 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (79, 177)	12	on__test_data_driven	_Test Data driven.script
+2016-06-03 04:10:23.023 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:23.023 +0100	everyimagelocation	Todos/Unticked_checkbox	found 2 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:23.023 +0100	readtext		(323,157,717,173)
+2016-06-03 04:10:23.023 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:23.023 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:24.024 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:24.024 +0100	everyimagelocation	Todos/Unticked_checkbox	found 2 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:24.024 +0100	readtext		(323,157,717,173)
+2016-06-03 04:10:24.024 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:24.024 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:26.026 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 166)	4	on_opendetailview	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:26.026 +0100	waitfor	Todos/DetailView_TL	found at (948, 35)	5	on_opendetailview	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:26.026 +0100	Log		Adding subtask [Milk] to todo [Shopping]	2	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:26.026 +0100	imagefound	Todos/DetailView_TL	found at (669, 35)	5	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:26.026 +0100	LogError		Detail view not opened	6	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	everyimagelocation	Todos/Unticked_checkbox	found 2 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	readtext		(323,157,717,173)
+2016-06-03 04:10:27.027 +0100	Log		TEXT: Shopping\na ☆	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	readtext		(321,158,715,174)
+2016-06-03 04:10:27.027 +0100	Log		TEXT: Shopping\nS3 ☆	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	Log		Searching for todo [Milk]	2	function_findsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	everyimagelocation	Todos/Unticked_taskbox	found 1 images	5	function_findsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:27.027 +0100	readtext		(691,189,885,205)
+2016-06-03 04:10:27.027 +0100	LogSuccess		Subtask [Milk] found	15	function_findsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 04:10:43.043 +0100	EndTestCase		(Duration:"22.625", Errors:"2", Exceptions:"0", StartTime:"2016-06-03 04:10:20 +0100", Successes:"4", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 04:10:43.043 +0100	ABORTED		Execution Time 0:00:23 _Test Data driven.script

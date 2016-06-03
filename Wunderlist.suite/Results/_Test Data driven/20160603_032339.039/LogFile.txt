@@ -1,0 +1,26 @@
+﻿2016-06-03 03:23:39.039 +0100	START		Running _Test Data driven.script
+2016-06-03 03:23:40.040 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 03:23:40.040 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,253), ImageRectangle:(39,246,119,260), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 253)	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 03:23:40.040 +0100	Log		List found	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 03:23:42.042 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,253), ImageRectangle:(39,246,119,260), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (79, 253)	12	on__test_data_driven	_Test Data driven.script
+2016-06-03 03:23:42.042 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	everyimagelocation	Todos/Unticked_checkbox	found 4 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	readtext		(323,157,717,173)
+2016-06-03 03:23:43.043 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	readtext		(321,158,715,174)
+2016-06-03 03:23:43.043 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	readtext		(323,204,717,220)
+2016-06-03 03:23:43.043 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	everyimagelocation	Todos/Unticked_checkbox	found 4 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:43.043 +0100	readtext		(323,157,717,173)
+2016-06-03 03:23:44.044 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:44.044 +0100	readtext		(321,158,715,174)
+2016-06-03 03:23:44.044 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:44.044 +0100	readtext		(323,204,717,220)
+2016-06-03 03:23:44.044 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:44.044 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:44.044 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	4	on_opendetailview	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 03:23:44.044 +0100	EndTestCase		(Duration:"5.188", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 03:23:39 +0100", Successes:"2", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 03:23:44.044 +0100	ABORTED		Execution Time 0:00:05 _Test Data driven.script

@@ -19,7 +19,7 @@ function find todo_name
 		
 		// Create a large rectangle to the right of our checkbox
 		put (it.x + 6, it.y - 8) into TL
-		put (it.x + 400, it.y + 8) into BR
+		put (it.x + 300, it.y + 8) into BR
 		
 		put ReadText(TL, BR) into todo_text
 		Log "TEXT: " & todo_text
@@ -59,18 +59,17 @@ to addSubtask todo_name, subtask_name
 	Log "Adding subtask [" & subtask_name & "] to todo [" & todo_name & "]"
 	
 	// Check that the detailed view has been opened
-	if ImageFound(1.0, (text: todo_name))			
-		if findSubtask(subtask_name) is false		
-			Click "Todos/AddSubTask_box", 
-			TypeText subtask_name, return
-			WaitFor 8.0, (TEXT: subtask_name, SearchRectangle:("Todos/DetailView_TL", "Todos/DetailView_BR"))
-			
-			LogSuccess "Subtask  [" & subtask_name & "] added"
-		end if
-	else	
-		LogError "Detail view not open"
+	if ImageFound(1.0, "Todos/DetailView_TL") is false
+		LogError "Detail view not opened"
 		openDetailView todo_name
-		addSubtask todo_name, subtask_name
+	end if
+	
+	if findSubtask(subtask_name) is false		
+		Click "Todos/AddSubTask_box", 
+		TypeText subtask_name, return
+		WaitFor 8.0, (TEXT: subtask_name, SearchRectangle:("Todos/DetailView_TL", "Todos/DetailView_BR"))
+		
+		LogSuccess "Subtask  [" & subtask_name & "] added"
 	end if	
 end addSubtask
 
@@ -98,3 +97,41 @@ function findSubtask subtask_name
 	
 	return false
 end findSubtask
+
+// adds a due date to the todo task
+to addDueDate todo_name, due_date
+	Log "Adding due date: [" & due_date & "]"
+	
+	// put our date into a proper date format
+	put the date(due_date) into due_date
+	
+	if ImageFound(1.0, "Todos/DetailView_TL") is false
+		LogError "Detail view not open"
+		openDetailView todo_name
+	end if
+	
+	Click "Todos/Date/DueDate_Icon"
+	WaitFor 8.0, "Todos/Date/DayRect_BR"
+	
+	// Loop until the month and year matches our date on the calendar
+	repeat while displayed_date is not equal to due_date	
+		put ReadText("Todos/Date/DateView_TL","Todos/Date/DateView_BR") into date_text
+		put the date((due_date.day & " " & date_text)) into displayed_date
+		
+		if displayed_date < due_date
+			Click "Todos/Date/IncreaseDate_button"
+		end if
+		
+		if displayed_date > due_date
+			Click "Todos/Date/DecreaseDate_button"
+		end if
+		
+		wait 2
+	end repeat
+	
+	Click (TEXT: due_date.day, ContrastColor:"AutoDetect", Contrast:"On", SearchRectangle:("Todos/Date/DayRect_TL", "Todos/Date/DayRect_BR"))
+	Click "Todos/Date/DateSave_button"
+	WaitFor 5.0, "Todos/Date/DueDate_Icon/DueDate_Icon_Highlighted"
+	
+	LogSuccess "Due date added"
+end addDueDate

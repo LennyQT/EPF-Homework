@@ -9,12 +9,12 @@
   <TotalTimeOnSuccess>0.344000</TotalTimeOnSuccess>
  </script>
  <script name="_Test Data driven">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>91</NumberOfRuns>
-  <NumberOfFails>31</NumberOfFails>
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>99</NumberOfRuns>
+  <NumberOfFails>35</NumberOfFails>
   <FirstRun>2016-06-01 13:06:38 +0100</FirstRun>
-  <LastRun>2016-06-03 02:39:00 +0100</LastRun>
-  <TotalTimeOnSuccess>1126.827000</TotalTimeOnSuccess>
+  <LastRun>2016-06-03 04:17:24 +0100</LastRun>
+  <TotalTimeOnSuccess>1451.687000</TotalTimeOnSuccess>
  </script>
  <script name="_Before Open application">
   <LastStatus>Success</LastStatus>

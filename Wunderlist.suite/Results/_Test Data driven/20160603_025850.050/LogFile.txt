@@ -1,0 +1,13 @@
+﻿2016-06-03 02:58:50.050 +0100	START		Running _Test Data driven.script
+2016-06-03 02:58:50.050 +0100	Log		2016	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:51.051 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:51.051 +0100	Log		5	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:51.051 +0100	click	DueDate_Icon	at (682, 102)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:51.051 +0100	waitfor	DayRect_BR	found at (926, 174)	12	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:51.051 +0100	readtext		(766,171,899,194)
+2016-06-03 02:58:53.053 +0100	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", IgnoreSpaces:"No", ImageLocation:(760,253), ImageRectangle:(758,249,763,257), Language:"English", SearchRectangle:(747,221,926,324), TEXT:"5", TextPlatform:"Generic OCR")	at (760, 253)	28	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:53.053 +0100	click	DateSave_button	at (888, 409)	29	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:53.053 +0100	waitfor	DueDate_Icon/DueDate_Icon_Highlighted	found at (682, 102)	30	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:53.053 +0100	LogSuccess		Due date added	32	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:58:54.054 +0100	EndTestCase		(Duration:"3.502", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 02:58:50 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:58:54.054 +0100	SUCCESS		Execution Time 0:00:04 _Test Data driven.script

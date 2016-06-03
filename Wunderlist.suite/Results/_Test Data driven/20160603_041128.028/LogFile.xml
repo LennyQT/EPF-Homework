@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test Data driven.script" package="Wunderlist.suite" timestamp="2016-06-03 04:11:28.028 +0100"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-03 04:11:28.028 +0100"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="_Test Data driven.script" assertions="5" successes="3" errors="2" time="11.13">
+    <failure type="LogError">Detail view not opened</failure>
+  </testcase>
+ </testsuite>
+</testsuites>
