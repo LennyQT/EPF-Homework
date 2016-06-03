@@ -19,12 +19,12 @@ repeat with each item propList in data
 	
 	Todo.openDetailView propList.todo
 	
-	// If there's a subtask, add it to the created todo	
+	// If there's a subtask, add it to the todo	
 	if propList.subtask is not empty		
 		Todo.addSubtask propList.todo, propList.subtask		
 	End if
 	
-	// If there's a date, add it to the created todo
+	// If there's a date, add it to the todo
 	if propList.date is not empty
 		Todo.addDueDate propList.todo, propList.date
 	end if
