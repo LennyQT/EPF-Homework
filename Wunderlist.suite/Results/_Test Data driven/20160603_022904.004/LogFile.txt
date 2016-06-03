@@ -1,0 +1,9 @@
+﻿2016-06-03 02:29:04.004 +0100	START		Running _Test Data driven.script
+2016-06-03 02:29:05.005 +0100	Log		2016	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:29:05.005 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:29:05.005 +0100	Log		3	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:29:05.005 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:29:06.006 +0100	readtext		(766,171,899,194)
+2016-06-03 02:29:10.010 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(789,273), ImageRectangle:(786,269,792,277), Language:"English", TEXT:"3", TextPlatform:"Generic OCR")	at (789, 273)	27	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:29:10.010 +0100	EndTestCase		(Duration:"5.343", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 02:29:04 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:29:10.010 +0100	SUCCESS		Execution Time 0:00:06 _Test Data driven.script

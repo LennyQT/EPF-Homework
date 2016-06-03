@@ -1,45 +1,100 @@
-﻿to complete todo_name
-	repeat with each item of EveryImageLocation("Todos/Unticked_checkbox")
-		
-		// Get imade data
-		put ImageInfo("Todos/Unticked_checkbox") into imageData
-		put (it.x + 6, it.y - 8) into TL
-		put (it.x + 400, it.y + 8) into BR
-		
-		put ReadText(TL, BR) into todo_text
-		
-		if todo_text equals todo_name
-			Click it
-		end if
-		
-	end repeat
-	
-end complete
-
-to create todo_name
-	Log "Creating todo: " & todo_name
+﻿to create todo_name
+	Log "Creating todo [" & todo_name & "]"
 	
 	Click "Todos/Add_todo_field"
 	TypeText todo_name, Return
 	
 	WaitFor 8.0, (Text:todo_name, TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
 	
-	LogSuccess "Todo created: " & todo_name
+	LogSuccess "Todo [" & todo_name & "] created"
 end create
 
-to find todo_name
-	Log "Finding todo " & todo_name & ""
+
+// Returns the found <todo_name> as text, if not returns false
+function find todo_name
+	Log "Searching for todo [" & todo_name & "]"
 	
-	WaitFor 8.0, (Text:todo_name, TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
+	// Loop through the unticked checkboxes to find our todo
+	repeat with each item of EveryImageLocation("Todos/Unticked_checkbox")
+		
+		// Create a large rectangle to the right of our checkbox
+		put (it.x + 6, it.y - 8) into TL
+		put (it.x + 400, it.y + 8) into BR
+		
+		put ReadText(TL, BR) into todo_text
+		Log "TEXT: " & todo_text
+		
+		// return our found todo as text
+		if todo_text equals todo_name			
+			LogSuccess "Todo [" & todo_name & "] found"
+			return todo_text
+			exit function
+		end if
+		
+		put "" into todo_text
+	end repeat
 	
-	LogSuccess "Todo found: " & todo_name
-	return true
+	return false
 end find
 
-to AddSubtask todo_name, subtask_name
-	Log "Adding subtask " & subtask_name & " to todo: " & todo_name
+
+// Opens the detailed view of <todo_name>
+to openDetailView todo_name	
+	get Todo.find(todo_name)
+	if it does not equal false		
+		DoubleClick (TEXT: it)
+		WaitFor 8.0, "Todos/DetailView_TL"
+	end if		
+end openDetailView
+
+// Closes the current detailed view
+to closeDetailView
+	Click "Todos/Close_detail_view"
+	WaitFor 8.0, ("Todos/Todo_list_BottomRight")
+end closeDetailView
+
+
+// Double clicks a <todo> and adds a <substask> to it
+to addSubtask todo_name, subtask_name
+	Log "Adding subtask [" & subtask_name & "] to todo [" & todo_name & "]"
 	
-	(*	DoubleClick(TEXT: todo_name)
-	Click(TEXT:"Add a subtask")
-	TypeText subtask_name, return*)
-end AddSubtask
+	// Check that the detailed view has been opened
+	if ImageFound(1.0, (text: todo_name))			
+		if findSubtask(subtask_name) is false		
+			Click "Todos/AddSubTask_box", 
+			TypeText subtask_name, return
+			WaitFor 8.0, (TEXT: subtask_name, SearchRectangle:("Todos/DetailView_TL", "Todos/DetailView_BR"))
+			
+			LogSuccess "Subtask  [" & subtask_name & "] added"
+		end if
+	else	
+		LogError "Detail view not open"
+		openDetailView todo_name
+		addSubtask todo_name, subtask_name
+	end if	
+end addSubtask
+
+
+// returns true if subtask exists
+function findSubtask subtask_name
+	Log "Searching for todo [" & subtask_name & "]"
+	
+	// Loop through the unticked checkboxes to find our todo
+	repeat with each item of EveryImageLocation("Todos/Unticked_taskbox")
+		
+		// Create a large rectangle to the right of our checkbox
+		put (it.x + 6, it.y - 8) into TL
+		put (it.x + 200, it.y + 8) into BR
+		
+		put ReadText(TL, BR) into subtask_text
+		
+		// return our found todo as text
+		if subtask_text equals subtask_name			
+			LogSuccess "Subtask [" & subtask_name & "] found"
+			return true
+			exit function
+		end if
+	end repeat
+	
+	return false
+end findSubtask

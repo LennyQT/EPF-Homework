@@ -1,0 +1,10 @@
+﻿2016-06-03 01:55:23.023 +0100	START		Running _Test Data driven.script
+2016-06-03 01:55:23.023 +0100	Log		2017	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:23.023 +0100	Log		August	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:23.023 +0100	Log		5	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:23.023 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:24.024 +0100	readtext		(766,171,899,194)
+2016-06-03 01:55:24.024 +0100	Log		Year is smaller	17	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:24.024 +0100	Log		Displayed date is smaller	27	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:55:24.024 +0100	EndTestCase		(Duration:"1.557", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 01:55:23 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 01:55:24.024 +0100	SUCCESS		Execution Time 0:00:01 _Test Data driven.script

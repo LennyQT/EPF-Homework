@@ -1,0 +1,6 @@
+﻿2016-06-02 16:21:57.057 +0100	START		Running _Test Data driven.script
+2016-06-02 16:21:58.058 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:21:58.058 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 177)	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:21:58.058 +0100	Exception	Things to do	Could Not Open Image: Things to do	12	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:21:58.058 +0100	EndTestCase		(Duration:"1.079", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 16:21:57 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:21:59.059 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Things to do -- Execution Time 0:00:01 _Test Data driven.script

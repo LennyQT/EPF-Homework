@@ -6,9 +6,21 @@
 			put data
 			put the first item of data into list
 			put the second item of data into todo
-			put the third item of data into subtask
 			
-			insert (list:list, todo:todo, subtask: subtask) after propLists			
+			if the third item of data is not empty
+				put the third item of data into subtask
+			else				
+				put "" into subtask
+			end if
+			
+			if the fourth item of data is not empty
+				put the fourth item of data into date
+			else
+				put "" into date
+			end if
+			
+			
+			insert (list:list, todo:todo, subtask: subtask, date: date) after propLists		
 		end if
 	end repeat	
 	

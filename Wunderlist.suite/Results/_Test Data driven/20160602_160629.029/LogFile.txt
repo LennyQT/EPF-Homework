@@ -1,0 +1,13 @@
+﻿2016-06-02 16:06:29.029 +0100	START		Running _Test Data driven.script
+2016-06-02 16:06:30.030 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:30.030 +0100	Log		Unable to find list: Things to do	7	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:30.030 +0100	Log		Creating list: Things to do	2	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:30.030 +0100	click	Lists/Create_list_button	at (61, 706)	4	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:31.031 +0100	typetext		Things to do	5	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:32.032 +0100	click	Lists/SaveList_Button	at (642, 373)	6	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:33.033 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", Text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	7	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:33.033 +0100	LogSuccess		list created: Things to do	9	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:06:34.034 +0100	Log		Searching for todo Shopping	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:06:46.046 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:06:46.046 +0100	EndTestCase		(Duration:"17.034", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 16:06:29 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:06:46.046 +0100	ABORTED		Execution Time 0:00:17 _Test Data driven.script

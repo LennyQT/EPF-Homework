@@ -1,0 +1,20 @@
+﻿2016-06-03 00:50:04.004 +0100	START		Running _Test Data driven.script
+2016-06-03 00:50:05.005 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:50:05.005 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 177)	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:50:05.005 +0100	Log		List found	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:50:09.009 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 00:50:09.009 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:09.009 +0100	everyimagelocation	Todos/Unticked_checkbox	found 6 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:09.009 +0100	readtext		(323,157,717,173)
+2016-06-03 00:50:09.009 +0100	Log		TEXT: Cleaning	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:09.009 +0100	readtext		(321,158,715,174)
+2016-06-03 00:50:09.009 +0100	Log		TEXT: Cleaning	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:09.009 +0100	readtext		(323,204,717,220)
+2016-06-03 00:50:10.010 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:10.010 +0100	readtext		(321,205,715,221)
+2016-06-03 00:50:10.010 +0100	Log		TEXT: Pick up kids	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:10.010 +0100	readtext		(323,251,717,267)
+2016-06-03 00:50:10.010 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:10.010 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:50:10.010 +0100	EndTestCase		(Duration:"6.049", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 00:50:04 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 00:50:11.011 +0100	FAILURE	Screen_Error.png	STInvalidBoolean Value 'Shopping' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:06 _Test Data driven.script

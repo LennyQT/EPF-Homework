@@ -1,0 +1,11 @@
+﻿2016-06-02 16:25:30.030 +0100	START		Running _Test Data driven.script
+2016-06-02 16:25:31.031 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:33.033 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Things to do") within 1.00 seconds	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:33.033 +0100	Log		Creating list: Things to do	2	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:33.033 +0100	click	Lists/Create_list_button	at (61, 706)	4	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:34.034 +0100	typetext		Things to do	5	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:37.037 +0100	click	Lists/SaveList_Button	at (642, 373)	6	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:37.037 +0100	LogSuccess		list created: Things to do	9	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:25:37.037 +0100	Log		Searching for todo Shopping	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:25:48.048 +0100	EndTestCase		(Duration:"17.504", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 16:25:30 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:25:48.048 +0100	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Unable To Find Image: Todos/Todo_list_BottomRight -- Execution Time 0:00:18 _Test Data driven.script

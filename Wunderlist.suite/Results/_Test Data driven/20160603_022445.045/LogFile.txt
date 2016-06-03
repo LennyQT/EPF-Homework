@@ -1,0 +1,21 @@
+﻿2016-06-03 02:24:45.045 +0100	START		Running _Test Data driven.script
+2016-06-03 02:24:45.045 +0100	Log		2016	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:46.046 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:46.046 +0100	Log		5	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:46.046 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:46.046 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:47.047 +0100	click	DecreaseDate_button	at (756, 181)	23	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:47.047 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:47.047 +0100	click	DecreaseDate_button	at (756, 181)	23	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:48.048 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:48.048 +0100	click	DecreaseDate_button	at (756, 181)	23	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:49.049 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:49.049 +0100	click	DecreaseDate_button	at (756, 181)	23	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:50.050 +0100	readtext		(766,310,899,333)
+2016-06-03 02:24:50.050 +0100	click	DecreaseDate_button	at (756, 181)	23	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:51.051 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:51.051 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:52.052 +0100	readtext		(766,171,899,194)
+2016-06-03 02:24:56.056 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(759,252), ImageRectangle:(757,248,762,256), Language:"English", TEXT:"5", TextPlatform:"Generic OCR")	at (759, 252)	27	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:24:56.056 +0100	EndTestCase		(Duration:"11.248", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 02:24:45 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:24:56.056 +0100	SUCCESS		Execution Time 0:00:11 _Test Data driven.script

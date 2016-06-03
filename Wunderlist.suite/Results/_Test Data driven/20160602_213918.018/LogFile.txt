@@ -1,0 +1,7 @@
+﻿2016-06-02 21:39:18.018 +0100	START		Running _Test Data driven.script
+2016-06-02 21:39:19.019 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:39:19.019 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 177)	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:39:19.019 +0100	Log		List found	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:39:20.020 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	11	on__test_data_driven	_Test Data driven.script
+2016-06-02 21:39:20.020 +0100	EndTestCase		(Duration:"1.895", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 21:39:19 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 21:39:20.020 +0100	ABORTED		Execution Time 0:00:02 _Test Data driven.script

@@ -1,0 +1,7 @@
+﻿2016-06-02 16:01:38.038 +0100	START		Running _Test Data driven.script
+2016-06-02 16:01:39.039 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:01:39.039 +0100	Log		Searching for todo Shopping	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:01:40.040 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	found at (364, 166)	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:01:41.041 +0100	Log		Adding subtask Milk to todo: Shopping	2	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:02:00.000 +0100	EndTestCase		(Duration:"21.632", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 16:01:38 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:02:00.000 +0100	ABORTED		Execution Time 0:00:22 _Test Data driven.script

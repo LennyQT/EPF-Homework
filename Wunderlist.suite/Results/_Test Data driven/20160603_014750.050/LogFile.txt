@@ -1,0 +1,8 @@
+﻿2016-06-03 01:47:50.050 +0100	START		Running _Test Data driven.script
+2016-06-03 01:47:51.051 +0100	Log		2016	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:47:51.051 +0100	Log			8	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:47:51.051 +0100	Log		3	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:47:51.051 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:47:51.051 +0100	readtext		(766,171,899,194)
+2016-06-03 01:47:52.052 +0100	EndTestCase		(Duration:"1.407", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 01:47:50 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 01:47:52.052 +0100	SUCCESS		Execution Time 0:00:02 _Test Data driven.script

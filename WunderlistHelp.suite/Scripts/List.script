@@ -4,9 +4,9 @@
 	Click "Lists/Create_list_button"
 	TypeText list_name
 	Click "Lists/SaveList_Button"
-	WaitFor 8.0, (Text:list_name)
+	WaitFor 8.0, (TEXT: list_name, SearchRectangle: ("Lists/List_TL", "Lists/List_BR"))
 	
-	LogSuccess "list created: " & list_name
+	LogSuccess "List created: " & list_name
 end create
 
 to delete list_icon
@@ -18,3 +18,15 @@ to delete list_icon
 	
 	LogSuccess "List deleted: " & ReadText(list_icon)
 end delete
+
+// Returns true if the <list_name> was found
+function find list_name
+	Log "Searching for list: " & list_name
+	
+	if ImageFound(1.0, (TEXT:list_name, SearchRectangle: ("Lists/List_TL", "Lists/List_BR")))
+		Log "List found"
+		return true
+	Else
+		return false
+	end if
+end find

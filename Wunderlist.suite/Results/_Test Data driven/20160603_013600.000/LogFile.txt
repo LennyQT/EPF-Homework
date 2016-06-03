@@ -1,0 +1,4 @@
+﻿2016-06-03 01:36:00.000 +0100	START		Running _Test Data driven.script
+2016-06-03 01:36:00.000 +0100	Log		June	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 01:36:00.000 +0100	EndTestCase		(Duration:"0.569", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 01:36:00 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 01:36:00.000 +0100	SUCCESS		Execution Time 0:00:00 _Test Data driven.script

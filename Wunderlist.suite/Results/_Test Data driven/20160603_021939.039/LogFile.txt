@@ -1,0 +1,38 @@
+﻿2016-06-03 02:19:39.039 +0100	START		Running _Test Data driven.script
+2016-06-03 02:19:40.040 +0100	Log		2017	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:40.040 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:40.040 +0100	Log		5	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:40.040 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:41.041 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:41.041 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:42.042 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:42.042 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:43.043 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:43.043 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:43.043 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:44.044 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:44.044 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:44.044 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:45.045 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:45.045 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:46.046 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:46.046 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:47.047 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:47.047 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:48.048 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:48.048 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:49.049 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:49.049 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:50.050 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:50.050 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:50.050 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:50.050 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:51.051 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:51.051 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:52.052 +0100	readtext		(766,288,899,311)
+2016-06-03 02:19:52.052 +0100	click	IncreaseDate_button	at (913, 298)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:53.053 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:53.053 +0100	click	IncreaseDate_button	at (913, 181)	19	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:19:54.054 +0100	readtext		(766,171,899,194)
+2016-06-03 02:19:54.054 +0100	EndTestCase		(Duration:"14.804", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 02:19:39 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:19:54.054 +0100	SUCCESS		Execution Time 0:00:15 _Test Data driven.script

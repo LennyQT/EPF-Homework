@@ -1,0 +1,8 @@
+﻿2016-06-03 02:12:03.003 +0100	START		Running _Test Data driven.script
+2016-06-03 02:12:03.003 +0100	Log		2017	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:12:03.003 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:12:03.003 +0100	Log		5	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:12:03.003 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:12:04.004 +0100	readtext		(766,171,899,194)
+2016-06-03 02:12:04.004 +0100	EndTestCase		(Duration:"1.642", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 02:12:03 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:12:05.005 +0100	FAILURE	Screen_Error.png	STInvalidDate Value is not a date: '5June 2016' -- Execution Time 0:00:01 _Test Data driven.script

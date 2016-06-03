@@ -1,0 +1,10 @@
+﻿2016-06-02 16:24:28.028 +0100	START		Running _Test Data driven.script
+2016-06-02 16:24:28.028 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:29.029 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Things to do") within 1.00 seconds	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:30.030 +0100	Log		Creating list: Things to do	2	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:30.030 +0100	click	Lists/Create_list_button	at (61, 706)	4	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:31.031 +0100	typetext		Things to do	5	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:34.034 +0100	click	Lists/SaveList_Button	at (642, 373)	6	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:58.058 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"Things to do", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Things to do")" within 8.00 seconds	7	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:24:58.058 +0100	EndTestCase		(Duration:"30.817", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 16:24:28 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:24:59.059 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Things to do")" within 8.00 seconds -- Execution Time 0:00:30 _Test Data driven.script

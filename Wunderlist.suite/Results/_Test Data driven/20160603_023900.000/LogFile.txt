@@ -1,0 +1,9 @@
+﻿2016-06-03 02:39:00.000 +0100	START		Running _Test Data driven.script
+2016-06-03 02:39:01.001 +0100	Log		2016	7	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:39:01.001 +0100	Log		January	8	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:39:01.001 +0100	Log		3	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:39:01.001 +0100	click	AddDueDate_Icon	at (684, 101)	11	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:39:02.002 +0100	readtext		(766,171,899,194)
+2016-06-03 02:39:08.008 +0100	Exception	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(719,42,747,221), TEXT:"3", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"3")"	27	on__test_data_driven	_Test Data driven.script
+2016-06-03 02:39:08.008 +0100	EndTestCase		(Duration:"8.199", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 02:39:00 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 02:39:09.009 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"3")"  Restricted Search Rectangle ((719,42),(747,221))\n -- Execution Time 0:00:08 _Test Data driven.script

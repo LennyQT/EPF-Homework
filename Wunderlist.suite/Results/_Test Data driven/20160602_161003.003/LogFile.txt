@@ -1,0 +1,5 @@
+﻿2016-06-02 16:10:03.003 +0100	START		Running _Test Data driven.script
+2016-06-02 16:10:04.004 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:10:18.018 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Things to do")" within 8.00 seconds	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:10:18.018 +0100	EndTestCase		(Duration:"14.846", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 16:10:03 +0100", Successes:"0", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:10:18.018 +0100	ABORTED		Execution Time 0:00:15 _Test Data driven.script

@@ -1,8 +1,55 @@
-﻿get LoadData.readFile
+﻿get LoadData.readFile 
 put it into data
 
-repeat with each item propList in data
-	Log "Creating List: " & propList.list
-	Log "Creating Todo: " & propList.todo
-	Log "Creating Subtask: " & propList.subtask
+set the timeInputFormat to Natural
+put first item of data into propList
+put the date(propList.date) into dueDate
+Log dueDate.year
+Log monthName(dueDate.month)
+Log dueDate.day
+
+Click "AddDueDate_Icon"
+
+repeat while displayedDate is not equal to dueDate	
+	put ReadText("DateView_TL","DateView_BR") into date_text
+	put the date((dueDate.day & " " & date_text)) into displayedDate
+	
+	if displayedDate < dueDate
+		Click "IncreaseDate_button"
+	end if
+	
+	if displayedDate > dueDate
+		Click "DecreaseDate_button"
+	end if	
 end repeat
+
+Click (TEXT: dueDate.day, ContrastColor:"AutoDetect", Contrast:"On", SearchRectangle:("DayRect_TL", "DayRect_BR"))
+
+
+
+
+
+
+
+(*repeat with each item propList in data
+	// Check if the list exists, if not create it
+	if List.find(propList.list) is false
+		List.create propList.list
+	else
+		Click (TEXT: propList.list)
+	end if
+	
+	// Check if the todo exists, if not create it
+	if Todo.find(propList.todo) is false
+		Todo.create propList.todo
+	end if	
+	
+	// If there's a subtask, add it to the created todo	
+	if propList.subtask is not empty		
+		Todo.openDetailView propList.todo
+		Todo.addSubtask propList.todo, propList.subtask		
+		Todo.closeDetailView	
+	End if
+end repeat*)
+
+

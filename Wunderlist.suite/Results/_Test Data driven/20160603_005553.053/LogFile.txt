@@ -1,0 +1,12 @@
+﻿2016-06-03 00:55:53.053 +0100	START		Running _Test Data driven.script
+2016-06-03 00:55:53.053 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:55:54.054 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 177)	4	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:55:54.054 +0100	Log		List found	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 00:55:57.057 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (79, 177)	9	on__test_data_driven	_Test Data driven.script
+2016-06-03 00:55:57.057 +0100	Log		Searching for todo [Shopping]	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:55:57.057 +0100	everyimagelocation	Todos/Unticked_checkbox	found 6 images	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:55:57.057 +0100	readtext		(323,157,717,173)
+2016-06-03 00:55:57.057 +0100	Log		TEXT: Shopping	12	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:55:57.057 +0100	LogSuccess		Todo [Shopping] found	16	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 00:55:58.058 +0100	EndTestCase		(Duration:"4.96", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 00:55:53 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-03 00:55:58.058 +0100	FAILURE	Screen_Error.png	STInvalidBoolean Value 'Shopping' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:05 _Test Data driven.script

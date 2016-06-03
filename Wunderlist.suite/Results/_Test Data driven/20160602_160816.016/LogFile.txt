@@ -1,0 +1,71 @@
+﻿2016-06-02 16:08:16.016 +0100	START		Running _Test Data driven.script
+2016-06-02 16:08:17.017 +0100	Log		Searching for list: Things to do	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:08:17.017 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,177), ImageRectangle:(39,170,119,184), Language:"English", SearchRectangle:(20,137,295,671), TEXT:"Things to do", TextPlatform:"Generic OCR")	found at (79, 177)	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 16:08:17.017 +0100	Log		Searching for todo Shopping	2	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:51.051 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(331,133,1019,721), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Shopping")" within 8.00 seconds	5	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:51.051 +0100	Log		Unable to find: Shopping	7	function_find	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:52.052 +0100	Log		Creating todo: Shopping	2	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:52.052 +0100	click	Todos/Add_todo_field	at (341, 109)	4	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:53.053 +0100	typetext		Shopping[return]	5	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:54.054 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", SearchRectangle:(331,133,1019,721), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	found at (364, 166)	7	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:54.054 +0100	LogSuccess		Todo created: Shopping	9	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:55.055 +0100	Log		Adding subtask Milk to todo: Shopping	2	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:55.055 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", SearchRectangle:(331,133,1019,721), TEXT:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	at (364, 166)	4	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:08:56.056 +0100	Log		Creating subtask: substask_name	2	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Subtask.script
+2016-06-02 16:09:00.000 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(751,197), ImageRectangle:(706,192,797,203), Language:"English", TEXT:"Add a subtask", TextPlatform:"Generic OCR")	at (751, 197)	4	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Subtask.script
+2016-06-02 16:09:01.001 +0100	typetext		Milk[return]	5	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Subtask.script
+2016-06-02 16:09:11.011 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(721,197), ImageRectangle:(707,192,735,203), Language:"English", TEXT:"Milk", TextPlatform:"Generic OCR")	found at (721, 197)	6	on_create	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Subtask.script
+2016-06-02 16:09:11.011 +0100	Log		Substack added	8	on_addsubtask	C:/Users/Lenny JM/Projects/GitHub/EPF-Homework/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Shopping	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Milk	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Shopping	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Eggs	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Shopping	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Butter	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Pick up kids	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: 	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Cleaning	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Hoover	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Cleaning	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Dust	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Todo: Bread	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:11.011 +0100	Log		Creating Subtask: Flour	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Bread	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Salt	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Bread	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Sugar	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Bread	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Margarine	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Bread	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Yeast	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Macaroni Cheese	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Macaroni	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Macaroni Cheese	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Butter	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Macaroni Cheese	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Flour	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Macaroni Cheese	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Milk	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Recipes	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Macaroni Cheese	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Cheddar	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating List: Things to do	23	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Todo: Shopping	24	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	Log		Creating Subtask: Tea	25	on__test_data_driven	_Test Data driven.script
+2016-06-02 16:09:12.012 +0100	EndTestCase		(Duration:"55.578", Errors:"0", Exceptions:"1", StartTime:"2016-06-02 16:08:16 +0100", Successes:"1", TestCase:"_Test Data driven.script", Warnings:"0")
+2016-06-02 16:09:12.012 +0100	SUCCESS		Execution Time 0:00:56 _Test Data driven.script
