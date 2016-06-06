@@ -1,5 +1,5 @@
-﻿function readFile 
-	put file "C:\Users\Lenny JM\Projects\GitHub\EPF-Homework\Wunderlist Test Data\Test Data.csv" into dataFile
+﻿function readFile(fileName)	
+	put file fileName into dataFile
 	
 	repeat with each line data in dataFile
 		if repeatIndex() > 1			

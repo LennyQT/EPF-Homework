@@ -9,6 +9,7 @@
 	LogSuccess "List created: " & list_name
 end create
 
+
 // Returns true if the <list_name> was found
 function find list_name
 	Log "Searching for list: " & list_name
@@ -29,10 +30,4 @@ function find list_name
 		end if
 	end repeat
 	return false
-	(*	if ImageFound(1.0, (TEXT:list_name, SearchRectangle: ("Lists/List_TL", "Lists/List_BR")))
-		Log "List found"
-		return true
-	Else
-		return false
-	end if*)
 end find

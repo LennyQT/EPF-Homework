@@ -4,7 +4,7 @@
 	Click "Todos/Add_todo_field"
 	TypeText todo_name, Return
 	
-	WaitFor 8.0, (Text:todo_name, TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
+	WaitFor 8.0, (Text:todo_name, ValidWords:"*", TextDifference:1, SearchRectangle:( "Todos/Todo_list_TopLeft", "Todos/Todo_list_BottomRight"))
 	
 	LogSuccess "Todo [" & todo_name & "] created"
 end create
