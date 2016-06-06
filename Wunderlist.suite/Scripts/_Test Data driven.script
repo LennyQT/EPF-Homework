@@ -1,7 +1,7 @@
 ﻿// Sets eggplant to support most date/time formats
 set the timeInputFormat to Natural
 
-get LoadData.readFile 
+get LoadData.readFile("C:\Users\Lenny JM\Projects\GitHub\EPF-Homework\Wunderlist Test Data\Test Data.csv")
 put it into data
 
 repeat with each item propList in data
